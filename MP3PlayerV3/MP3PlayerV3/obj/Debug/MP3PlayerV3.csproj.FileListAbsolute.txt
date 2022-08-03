@@ -1,0 +1,15 @@
+C:\Users\jarda\source\repos\MP3PlayerV3\MP3PlayerV3\bin\Debug\MP3PlayerV3.exe.config
+C:\Users\jarda\source\repos\MP3PlayerV3\MP3PlayerV3\bin\Debug\MP3PlayerV3.exe
+C:\Users\jarda\source\repos\MP3PlayerV3\MP3PlayerV3\bin\Debug\MP3PlayerV3.pdb
+C:\Users\jarda\source\repos\MP3PlayerV3\MP3PlayerV3\bin\Debug\Interop.WMPLib.dll
+C:\Users\jarda\source\repos\MP3PlayerV3\MP3PlayerV3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jarda\source\repos\MP3PlayerV3\MP3PlayerV3\obj\Debug\MP3PlayerV3.csproj.AssemblyReference.cache
+C:\Users\jarda\source\repos\MP3PlayerV3\MP3PlayerV3\obj\Debug\Interop.WMPLib.dll
+C:\Users\jarda\source\repos\MP3PlayerV3\MP3PlayerV3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jarda\source\repos\MP3PlayerV3\MP3PlayerV3\obj\Debug\MP3PlayerV3.csproj.ResolveComReference.cache
+C:\Users\jarda\source\repos\MP3PlayerV3\MP3PlayerV3\obj\Debug\MP3PlayerV3.Form1.resources
+C:\Users\jarda\source\repos\MP3PlayerV3\MP3PlayerV3\obj\Debug\MP3PlayerV3.Properties.Resources.resources
+C:\Users\jarda\source\repos\MP3PlayerV3\MP3PlayerV3\obj\Debug\MP3PlayerV3.csproj.GenerateResource.cache
+C:\Users\jarda\source\repos\MP3PlayerV3\MP3PlayerV3\obj\Debug\MP3PlayerV3.csproj.CoreCompileInputs.cache
+C:\Users\jarda\source\repos\MP3PlayerV3\MP3PlayerV3\obj\Debug\MP3PlayerV3.exe
+C:\Users\jarda\source\repos\MP3PlayerV3\MP3PlayerV3\obj\Debug\MP3PlayerV3.pdb
